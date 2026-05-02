@@ -1,0 +1,9 @@
+TABLERO            "Espacios" 
+
+{
+    COLUMNA "Vacia"        {
+
+        tarea:       "Test"      [prioridad: MEDIA, responsable: "Yo", fecha_limite: 2026-05-01]
+
+    };
+}

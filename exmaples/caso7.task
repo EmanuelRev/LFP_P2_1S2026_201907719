@@ -1,0 +1,5 @@
+TABLERO "Crash Test" {
+    COLUMNA "Caos" {
+        tarea: "Tarea Rota" [prioridad: ALTA & responsable "Emanuel" fecha_limite: 2026-05-09
+    };
+}

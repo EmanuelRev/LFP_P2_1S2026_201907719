@@ -1,0 +1,5 @@
+TABLERO "Orden" {
+    COLUMNA "Prueba" {
+        tarea: "Desordenada" [fecha_limite: 2026-05-10, responsable: "Carlos", prioridad: MEDIA]
+    };
+}

@@ -1,0 +1,5 @@
+TABLERO "Fechas" {
+    COLUMNA "Test" {
+        tarea: "Fecha Rota" [prioridad: BAJA, responsable: "Pedro", fecha_limite: 2026-5-1]
+    };
+}

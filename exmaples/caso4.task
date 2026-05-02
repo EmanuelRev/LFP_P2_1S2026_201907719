@@ -1,0 +1,5 @@
+TABLERO "Proyecto" {
+    COLUMNA "Fase 1" {
+        tarea: "Fallo cadena" [prioridad: ALTA, responsable: "Emanuel, fecha_limite: 2026-05-05]
+    };
+}

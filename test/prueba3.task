@@ -1,0 +1,5 @@
+TABLERO "Proyecto con Errores" {
+    COLUMNA "Fallas" {
+        tarea: "Prueba de $imbolos" [prioridad ALTA, responsable: "Ana", fecha_limite: 2026-05-05]
+    };
+};

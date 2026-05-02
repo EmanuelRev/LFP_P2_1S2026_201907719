@@ -1,0 +1,14 @@
+TABLERO "Prueba Lexica" {
+    
+    @
+
+    COLUMNA "Fase 1" {
+        tarea: "Ignorar simbolos" [prioridad: ALTA, responsable: "Jorge" ~, fecha_limite: 2026-05-01]
+    };
+    
+    $
+
+    COLUMNA "Fase 2" {
+        tarea: "Prueba final" [prioridad: MEDIA, responsable: "Ana", fecha_limite: 2026-05-08]
+    };
+}

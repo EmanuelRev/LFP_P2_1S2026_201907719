@@ -1,0 +1,5 @@
+TABLERO "Proyecto LFP" {
+    COLUMNA "Por Hacer" {
+        tarea: "Definir GLC" [prioridad: ALTA, responsable: "Emanuel", fecha_limite: 2026-05-01]
+    };
+}

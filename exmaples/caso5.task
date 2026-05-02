@@ -1,0 +1,5 @@
+TABLERO "Proyecto LFP" {
+    COLUMNA "Por Hacer" {
+        tarea: "Tarea 1" [prioridad: BAJA, responsable: "Luis", fecha_limite: 2026-05-01]
+    ;
+}

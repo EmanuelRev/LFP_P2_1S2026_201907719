@@ -1,0 +1,5 @@
+TABLERO "Proyecto" {
+    COLUMNA "Fase 1" {
+        $ tarea: "Fallo lexico" [prioridad: @ALTA, responsable: "Ana", fecha_limite: 2026-05-05]
+    };
+}

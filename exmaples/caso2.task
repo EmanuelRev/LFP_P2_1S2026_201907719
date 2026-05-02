@@ -1,0 +1,9 @@
+TABLERO "Proyecto LFP" {
+    COLUMNA "Por Hacer" {
+        tarea: "Diseñar AFD" [prioridad: ALTA, responsable: "Jorge", fecha_limite: 2026-05-01],
+        tarea: "Implementar Lexer" [prioridad: ALTA, responsable: "Maria", fecha_limite: 2026-05-08]
+    };
+    COLUMNA "Completado" {
+        tarea: "Configurar GitHub" [prioridad: BAJA, responsable: "Emanuel", fecha_limite: 2026-04-18]
+    };
+}
